@@ -1,0 +1,6 @@
+[package]
+name = "belote"
+version = "0.1.0"
+authors = ["Romain <romain.assie@supinfo.com>"]
+
+[dependencies]
